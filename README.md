@@ -3,9 +3,9 @@
 
 - 🔭 Je travail actuellement sur [colombel.net](https://colombel.net)
 
-- 🌱Je perfectionne en ce moment le langage **NodeJs avec ExpressJs**
-
 - 👯 Mais aussi sur **Conectom**
+
+- 🌱Je perfectionne en ce moment le langage **NodeJs avec ExpressJs**
 
 - 💬 Parlez moi de **VueJs (VueCLI), NodeJs (ExpressJs), MongoDB (Mongoose)**
 
