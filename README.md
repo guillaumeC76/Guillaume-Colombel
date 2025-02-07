@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Guillaume COLOMBEL</h1>
 <h3 align="center">Développeur frontend principalement et depuis peu backend. Je suis aussi un très bon chef de projet.</h3>
 
-- 🔭 Je travail actuellement sur [colombel.net](https://colombel.net)
+- 🔭 Je travaille actuellement sur [colombel.net](https://colombel.net)
 
 - 👯 Mais aussi sur **Conectom**
 
